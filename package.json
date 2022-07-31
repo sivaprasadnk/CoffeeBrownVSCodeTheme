@@ -1,0 +1,21 @@
+{
+  "name": "coffee-brown",
+  "displayName": "Coffee Brown",
+  "description": "A simple coffee brown color theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coffee Brown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coffee Brown-color-theme.json"
+      }
+    ]
+  }
+}
