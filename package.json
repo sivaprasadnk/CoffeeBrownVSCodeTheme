@@ -6,6 +6,12 @@
   "engines": {
     "vscode": "^1.69.0"
   },
+  "publisher": "SivaprasadNK",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sivaprasadnk/CoffeeBrownVSCodeTheme.git"
+
+    },
   "categories": [
     "Themes"
   ],
