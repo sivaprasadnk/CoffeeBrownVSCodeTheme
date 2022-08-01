@@ -1,45 +1,53 @@
-{
+{ 
 	"name": "Coffee Brown",
 	"colors":{
+		"notificationCenterHeader.foreground": "#fef6e4",
+        "notificationsInfoIcon.foreground": "#fef6e4",
+        "notifications.background": "#462323",
+		"notifications.foreground": "#fff3f3",
+        "editor.foreground": "#fef6e4",
+        "editorHoverWidget.background": "#432323",
+		"editorHoverWidget.border": "#fef6e4",
+		"editorHoverWidget.foreground": "#fff3f3",
+        "notifications.border": "#fef6e4",
+        "terminal.foreground": "#fef6e4",
+        "debugConsole.infoForeground": "#fef6e4",
+        "debugConsole.sourceForeground": "#fef6e4",
+        "notificationCenter.border": "#fef6e4",
 		"activityBar.activeBackground": "#191616",
 		"activityBar.activeBorder": "#966549",
-		// "activityBar.background": "#0d1113",
-		// "activityBar.activeFocusBorder": "#00e5ff",
 		"activityBar.inactiveForeground": "#191616",
 		"activityBarBadge.foreground": "#fef6e4",
 		"activityBar.foreground": "#966549",
 		"button.background": "#966549",
 		"sideBar.foreground": "#966549",
-		// ""
 		"menu.selectionForeground": "#0d1113",
-		// "menu."
 		"menu.selectionBackground": "#fef6e4",
 		"menu.foreground": "#966549",
-		// "menu.border": "#eeffff",
 		"menu.selectionBorder": "#eeffff",
-		"menu.background": "#191515",
+		"menu.background": "#161212",
 		"menu.separatorBackground": "#966549",
 		"menubar.selectionBorder": "#966549",
 		"button.foreground": "#000000",
-		"editor.background": "#121111",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#201a1a",
 		"activityBarBadge.background": "#966549",
-		// "actibarb"
 		"sideBarTitle.foreground": "#bbbbbb",
 		"titleBar.activeBackground": "#000000",
-		// "se"
-		// ""
 		"titleBar.activeForeground": "#966549",
 		"titleBar.inactiveForeground": "#6ca099",
 		"inputOption.activeForeground": "#966549",
-		"input.foreground": "#966549",
+		"input.foreground": "#fef6e4",
 		"inputOption.activeBackground": "#0d1113",
 		"keybindingLabel.background": "#0d1113",
 		"quickInput.background": "#0d1113",
 		"quickInput.foreground": "#566d6a",
-		// "qui"
 		"quickInputList.focusForeground": "#966549",
 		"quickInputList.focusBackground": "#0d1113",
+		"list.activeSelectionBackground": "#462323",
+		"debugToolBar.background": "#462323",
+		"debugToolBar.border": "#fef6e4",
+		// "debugTooo"
+		// "list.bor"
 	},
 	"tokenColors": [
 		{
