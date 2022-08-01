@@ -1,6 +1,8 @@
 { 
 	"name": "Coffee Brown",
 	"colors":{
+		"focusBorder": "#fef6e4",
+		"textLink.activeForeground": "#fef6e4",
 		"notificationCenterHeader.foreground": "#fef6e4",
         "notificationsInfoIcon.foreground": "#fef6e4",
         "notifications.background": "#462323",
@@ -98,7 +100,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fef6e4"
 			}
 		},
 		{
@@ -142,7 +144,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#24304b"
 			}
 		},
 		{
